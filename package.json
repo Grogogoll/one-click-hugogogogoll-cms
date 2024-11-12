@@ -48,7 +48,7 @@
     "imports-loader": "^5.0.0",
     "mini-css-extract-plugin": "^2.4.4",
     "npm-run-all2": "^5.0.0",
-    "postcss": "^8.3.11",
+    "postcss": "^8.4.49",
     "postcss-custom-media": "^11.0.0",
     "postcss-import": "^16.0.0",
     "postcss-loader": "^8.0.0",
