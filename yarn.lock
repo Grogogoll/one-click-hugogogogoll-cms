@@ -6319,10 +6319,15 @@ immutable@^3.7.6:
   resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
   integrity sha512-15gZoQ38eYjEjxkorfbcgBKBL6R7T459OuK+CpcWt7O3KF4uPCx2tD0uFETlUDIyo+1789crbMhTvQBSR5yBMg==
 
-immutable@^5.0.0, immutable@^5.0.2:
+immutable@^5.0.2:
   version "5.0.3"
   resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.0.3.tgz#aa037e2313ea7b5d400cd9298fa14e404c933db1"
   integrity sha512-P8IdPQHq3lA1xVeBRi5VPqUm5HDgKnx0Ru51wZz5mjxHr5n3RWhjIpOFU7ybkUxfB+5IToy+OLaHYDBIWsv+uw==
+
+immutable@^5.1.7:
+  version "5.1.7"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.1.7.tgz#46460bbe4a72078eeff5cac64208607be7dd55b3"
+  integrity sha512-47Xb+LFbZ/ZIjQMj6Q5J3IfK7PJFuqRdFOC9FpGgRTK6U2dAEVmkR9hp58qU4FpYux5YXpneDwkj2EP6lppzFA==
 
 import-fresh@^3.2.1, import-fresh@^3.3.0:
   version "3.3.0"
